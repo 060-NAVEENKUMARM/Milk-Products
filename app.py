@@ -79,5 +79,5 @@ def signupadd():
     return render_template('login.html')
 
 if __name__ == '__main__':
-    app.run(host='20.119.16.44' )
-    #port=5000
+    app.run(host='milknook.azurewebsites.net' debug=true port=8080 )
+    
