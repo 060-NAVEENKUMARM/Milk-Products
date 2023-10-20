@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'MilkNook'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21E9EC45F3F747E4A5BD05C24A9EBF48 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED4E93B2E5A144238E9555C6425ED6E9 }}
